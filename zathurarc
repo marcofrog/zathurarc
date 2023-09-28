@@ -2,5 +2,7 @@ set selection-clipboard clipboard
 set scroll-step 1
 set scroll-hstep 1
 unmap c
-map <Up> feedkeys "40Up"
-map <Down> feedkeys "40Down"
+map <Up> feedkeys "40<x-k>"
+map <Down> feedkeys "40<x-j>"
+map <Left> feedkeys "40<x-h>"
+map <Right> feedkeys "40<x-l>"
