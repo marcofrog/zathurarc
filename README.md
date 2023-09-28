@@ -1,2 +1,2 @@
-# zathurarc
+# Golden zathurarc
 /etc/zathurarc
