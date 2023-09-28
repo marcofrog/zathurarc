@@ -1,2 +1,2 @@
 # zathurarc
-zathurarc
+/etc/zathurarc
