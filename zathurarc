@@ -1,0 +1,6 @@
+set selection-clipboard clipboard
+set scroll-step 1
+set scroll-hstep 1
+unmap c
+map <Up> feedkeys "40Up"
+map <Down> feedkeys "40Down"
