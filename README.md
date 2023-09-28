@@ -1,0 +1,2 @@
+# zathurarc
+zathurarc
